@@ -15,7 +15,7 @@
  * License for the specific language governing permissions and limitations under
  * the License.
  */ -->
-  <ModulePrefs title="Starter App">
+  <ModulePrefs title="Open Hours">
     <Require feature="rpc"/>
   </ModulePrefs>
   <Content type="html"><![CDATA[
